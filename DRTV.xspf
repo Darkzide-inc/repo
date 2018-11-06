@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Spilleliste</title>
+	<trackList>
+		<track>
+			<location>https://dr01-lh.akamaihd.net/i/live/dr01_0@147054/master.m3u8?b=100-10000</location>
+			<title>DR 1 HD</title>
+			<image>https://i.imgur.com/tb9aITs.png</image>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>0</vlc:id>
+					<vlc:option>network-caching=1000</vlc:option>
+				</extension>
+		</track>
+		<track>
+			<location>https://dr02-lh.akamaihd.net/i/live/dr02_0@147055/master.m3u8?b=100-10000</location>
+			<title>DR 2 HD</title>
+			<image>https://i.imgur.com/DpVMz8w.png</image>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>1</vlc:id>
+					<vlc:option>network-caching=1000</vlc:option>
+				</extension>
+		</track>
+		<track>
+			<location>https://dr03-lh.akamaihd.net/i/live/dr03_0@147056/master.m3u8?b=100-10000</location>
+			<title>DR 3 HD</title>
+			<image>https://i.imgur.com/1203Y55.png</image>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>2</vlc:id>
+					<vlc:option>network-caching=1000</vlc:option>
+				</extension>
+		</track>
+		<track>
+			<location>https://dr04-lh.akamaihd.net/i/live/dr04_0@147057/master.m3u8?b=100-10000</location>
+			<title>DR K HD</title>
+			<image>https://i.imgur.com/EXv1gWT.png</image>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>3</vlc:id>
+					<vlc:option>network-caching=1000</vlc:option>
+				</extension>
+		</track>
+		<track>
+			<location>https://dr05-lh.akamaihd.net/i/live/dr05_0@147058/master.m3u8?b=100-10000</location>
+			<title>DR RAMASJANG</title>
+			<image>https://i.imgur.com/y7HedF9.png</image>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>4</vlc:id>
+					<vlc:option>network-caching=1000</vlc:option>
+				</extension>
+		</track>
+		<track>
+			<location>https://dr06-lh.akamaihd.net/i/live/dr06_0@147059/master.m3u8?b=100-10000</location>
+			<title>DR ULTRA HD</title>
+			<image>https://i.imgur.com/02XnRUp.png</image>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>5</vlc:id>
+					<vlc:option>network-caching=1000</vlc:option>
+				</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+			<vlc:item tid="4"/>
+			<vlc:item tid="5"/>
+	</extension>
+</playlist>

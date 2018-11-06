@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>TV2TV</title>
+	<trackList>
+		<track>
+			<location>https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2nord/mfpoe3d3/2/master.m3u8</location>
+			<title>TV2 NORD DK</title>
+			<image>https://i.imgur.com/VN5CZzI.png</image>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>0</vlc:id>
+					<vlc:option>network-caching=1000</vlc:option>
+				</extension>
+		</track>
+		<track>
+			<location>https://tv2-play-cl2-live-hls-st.akamaized.net/out/u/tv2news/bmfdkrbg/0/master_7.m3u8</location>
+			<title>TV2 NEWS DK</title>
+			<image>https://i.imgur.com/NkDmzzO.png</image>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>1</vlc:id>
+					<vlc:option>network-caching=1000</vlc:option>
+				</extension>
+		</track>
+		<track>
+			<location>https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2zulu/4kvorjjh/2/master.m3u8</location>
+			<title>TV2 ZULU DK</title>
+			<image>https://i.imgur.com/ITWjqNK.png</image>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>2</vlc:id>
+					<vlc:option>network-caching=1000</vlc:option>
+				</extension>
+		</track>
+		<track>
+			<location>https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2play1/crsvkedv/0/master.m3u8</location>
+			<title>TV2 PLAY 1 DK</title>
+			<image>https://i.imgur.com/7f8eH7k.png</image>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>3</vlc:id>
+					<vlc:option>network-caching=1000</vlc:option>
+				</extension>
+		</track>
+		<track>
+			<location>https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2play2/adegbvef/0/master.m3u8</location>
+			<title>TV2 PLAY 2 DK</title>
+			<image>https://i.imgur.com/7f8eH7k.png</image>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>4</vlc:id>
+					<vlc:option>network-caching=1000</vlc:option>
+				</extension>
+		</track>
+		<track>
+			<location>https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2play3/fgmbreov/0/master.m3u8</location>
+			<title>TV2 PLAY 3 DK</title>
+			<image>https://i.imgur.com/7f8eH7k.png</image>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>5</vlc:id>
+					<vlc:option>network-caching=1000</vlc:option>
+				</extension>
+		</track>
+		<track>
+			<location>https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2play4/zdyppexe/0/master.m3u8</location>
+			<title>TV2 PLAY 4 DK</title>
+			<image>https://i.imgur.com/7f8eH7k.png</image>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>6</vlc:id>
+					<vlc:option>network-caching=1000</vlc:option>
+				</extension>
+		</track>
+		<track>
+			<location>https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2sport/mmdsewor/2/master.m3u8</location>
+			<title>TV2 SPORT DK</title>
+			<image>https://i.imgur.com/98NBYcD.png</image>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>7</vlc:id>
+					<vlc:option>network-caching=1000</vlc:option>
+				</extension>
+		</track>
+		<track>
+			<location>https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2charlie/gkr3oefn/2/master.m3u8</location>
+			<title>TV2 CHARLIE DK</title>
+			<image>https://i.imgur.com/VN5CZzI.png</image>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>8</vlc:id>
+					<vlc:option>network-caching=1000</vlc:option>
+				</extension>
+		</track>
+		<track>
+			<location>https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2lorry/mbnkhtor/2/master.m3u8</location>
+			<title>TV2 LORRY DK</title>
+			<image>https://i.imgur.com/DgFpNQo.png</image>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>9</vlc:id>
+					<vlc:option>network-caching=1000</vlc:option>
+				</extension>
+		</track>
+		<track>
+			<location>https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2fri/ve3pvkfs/2/master.m3u8</location>
+			<title>TV2 FRI DK</title>
+			<image>https://i.imgur.com/VN5CZzI.png</image>
+				<extension application="http://www.videolan.org/vlc/playlist/0">
+					<vlc:id>10</vlc:id>
+					<vlc:option>network-caching=1000</vlc:option>
+				</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+			<vlc:item tid="0"/>
+			<vlc:item tid="1"/>
+			<vlc:item tid="2"/>
+			<vlc:item tid="3"/>
+			<vlc:item tid="4"/>
+			<vlc:item tid="5"/>
+			<vlc:item tid="6"/>
+			<vlc:item tid="7"/>
+			<vlc:item tid="8"/>
+			<vlc:item tid="9"/>
+			<vlc:item tid="10"/>
+	</extension>
+</playlist>

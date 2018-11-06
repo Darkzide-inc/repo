@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:0 tvg-logo="https://danishbits.org/static/bitbucket/users/1521240448.9782.png",TV2 NORD DK
+https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2nord/mfpoe3d3/2/master.m3u8
+#EXTINF:0 tvg-logo="https://danishbits.org/static/bitbucket/users/1514628672.887.png",TV2 NEWS DK
+https://tv2-play-cl2-live-hls-st.akamaized.net/out/u/tv2news/bmfdkrbg/0/master_7.m3u8
+#EXTINF:0 tvg-logo="https://danishbits.org/static/bitbucket/users/1514628582.8649.png",TV2 ZULU DK
+https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2zulu/4kvorjjh/2/master.m3u8
+#EXTINF:0 tvg-logo="https://danishbits.org/static/bitbucket/users/1537084068.0727.png",TV2 PLAY 1 DK
+https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2play1/crsvkedv/0/master.m3u8
+#EXTINF:0 tvg-logo="https://danishbits.org/static/bitbucket/users/1537084179.773.png",TV2 PLAY 2 DK
+https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2play2/adegbvef/0/master.m3u8
+#EXTINF:0 tvg-logo="https://danishbits.org/static/bitbucket/users/1537084206.2882.png",TV2 PLAY 3 DK
+https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2play3/fgmbreov/0/master.m3u8
+#EXTINF:0 tvg-logo="https://danishbits.org/static/bitbucket/users/1537084222.9296.png",TV2 PLAY 4 DK
+https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2play4/zdyppexe/0/master.m3u8
+#EXTINF:0 tvg-logo="https://danishbits.org/static/bitbucket/users/1534594176.1333.png",TV2 SPORT DK
+https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2sport/mmdsewor/2/master.m3u8
+#EXTINF:0 tvg-logo="https://danishbits.org/static/bitbucket/users/1514628557.3208.png",TV2 CHARLIE DK
+https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2charlie/gkr3oefn/2/master.m3u8
+#EXTINF:0 tvg-logo="https://danishbits.org/static/bitbucket/users/1521240380.6333.png",TV2 LORRY DK
+https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2lorry/mbnkhtor/2/master.m3u8
+#EXTINF:0 tvg-logo="https://danishbits.org/static/bitbucket/users/1514628569.7212.png",TV2 FRI DK
+https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2fri/ve3pvkfs/2/master.m3u8
