@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:0 tvg-shift="0" tvg-logo="https://i.imgur.com/tb9aITs.png",DR 1 HD
+https://dr01-lh.akamaihd.net/i/live/dr01_0@147054/master.m3u8?b=100-10000
+#EXTINF:0 tvg-shift="0" tvg-logo="https://i.imgur.com/DpVMz8w.png",DR 2 HD
+https://dr02-lh.akamaihd.net/i/live/dr02_0@147055/master.m3u8?b=100-10000
+#EXTINF:0 tvg-shift="0" tvg-logo="https://i.imgur.com/1203Y55.png",DR 3 HD
+https://dr03-lh.akamaihd.net/i/live/dr03_0@147056/master.m3u8?b=100-10000
+#EXTINF:0 tvg-shift="0" tvg-logo="https://i.imgur.com/EXv1gWT.png",DR K HD
+https://dr04-lh.akamaihd.net/i/live/dr04_0@147057/master.m3u8?b=100-10000
+#EXTINF:0 tvg-shift="0" tvg-logo="https://i.imgur.com/y7HedF9.png",DR RAMASJANG
+https://dr05-lh.akamaihd.net/i/live/dr05_0@147058/master.m3u8?b=100-10000
+#EXTINF:0 tvg-shift="0" tvg-logo="https://i.imgur.com/02XnRUp.png",DR ULTRA HD
+https://dr06-lh.akamaihd.net/i/live/dr06_0@147059/master.m3u8?b=100-10000
+#EXTINF:0 tvg-shift="0" tvg-logo="https://i.imgur.com/VN5CZzI.png",TV2 NORD DK
+https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2nord/mfpoe3d3/2/master.m3u8
+#EXTINF:0 tvg-shift="0" tvg-logo="https://i.imgur.com/NkDmzzO.png",TV2 NEWS DK
+https://tv2-play-cl2-live-hls-st.akamaized.net/out/u/tv2news/bmfdkrbg/0/master_7.m3u8
+#EXTINF:0 tvg-shift="0" tvg-logo="https://i.imgur.com/ITWjqNK.png",TV2 ZULU DK
+https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2zulu/4kvorjjh/2/master.m3u8
+#EXTINF:0 tvg-shift="0" tvg-logo="https://i.imgur.com/7f8eH7k.png",TV2 PLAY 1 DK
+https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2play1/crsvkedv/0/master.m3u8
+#EXTINF:0 tvg-shift="0" tvg-logo="https://i.imgur.com/7f8eH7k.png",TV2 PLAY 2 DK
+https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2play2/adegbvef/0/master.m3u8
+#EXTINF:0 tvg-shift="0" tvg-logo="https://i.imgur.com/7f8eH7k.png",TV2 PLAY 3 DK
+https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2play3/fgmbreov/0/master.m3u8
+#EXTINF:0 tvg-shift="0" tvg-logo="https://i.imgur.com/7f8eH7k.png",TV2 PLAY 4 DK
+https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2play4/zdyppexe/0/master.m3u8
+#EXTINF:0 tvg-shift="0" tvg-logo="https://i.imgur.com/98NBYcD.png",TV2 SPORT DK
+https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2sport/mmdsewor/2/master.m3u8
+#EXTINF:0 tvg-shift="0" tvg-logo="https://i.imgur.com/VN5CZzI.png",TV2 CHARLIE DK
+https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2charlie/gkr3oefn/2/master.m3u8
+#EXTINF:0 tvg-shift="0" tvg-logo="https://i.imgur.com/DgFpNQo.png",TV2 LORRY DK
+https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2lorry/mbnkhtor/2/master.m3u8
+#EXTINF:0 tvg-shift="0" tvg-logo="https://i.imgur.com/VN5CZzI.png",TV2 FRI DK
+https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2fri/ve3pvkfs/2/master.m3u8
